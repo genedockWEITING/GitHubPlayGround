@@ -1,7 +1,7 @@
 # GitHubPlayGround
 I use this repository to play the git and github without doing harm.
 
-## That's of the technique
+## 學習
 - 先將公有repository clone到本地
  - git clone .......git <local name>
 - 興建分支
@@ -14,3 +14,5 @@ I use this repository to play the git and github without doing harm.
     - [link](https://backlogtool.com/git-guide/tw/)
 - pro GIT
     - [link]()
+# GitHub 學習資源
+- Github help頁面 [link](https://help.github.com/)
